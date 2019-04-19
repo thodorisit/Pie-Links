@@ -1,4 +1,4 @@
-![My image](https://thodorisit.github.io/pie-links/logo.png)
+![My image](https://thodorisit.github.io/Pie-Links/source/logo.png)
 # Pie-Links
 
 Check out the teaser : https://thodorisit.github.io/Pie-Links/source/
