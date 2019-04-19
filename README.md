@@ -1,6 +1,7 @@
 ![My image](https://thodorisit.github.io/pie-links/logo.png)
 # Pie-Links
-Organize your links! A lightweight fully customizable, open-source linktree alternative.
+
+Check out the teaser : https://thodorisit.github.io/Pie-Links/source/
 
 # Instructions
 ```
